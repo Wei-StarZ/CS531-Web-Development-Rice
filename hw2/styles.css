@@ -1,0 +1,21 @@
+table{
+  border: 2px solid black;
+  width: 80%
+}
+tr{
+  background-color: grey;
+  border: 1px solid black;
+}
+td{
+  border: 1px solid black;
+  font-size: 20;
+  font-style: italic;
+}
+img{
+  height = auto;
+  width = auto
+}
+input {
+  display: inline-block;
+  float: left;
+}
